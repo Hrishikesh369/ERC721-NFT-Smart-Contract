@@ -8,9 +8,9 @@ This ERC721 NFT Smart contract is a collection of "Dogie" NFT's, this contract i
 
 ## NFT's in "Dogie" Collection
 
-**Pug**
+***Pug***
 ![](img/pug.png)
-**St.Bernard**
+***St.Bernard***
 ![](img/st-bernard.png)
 
 ## Functionality
