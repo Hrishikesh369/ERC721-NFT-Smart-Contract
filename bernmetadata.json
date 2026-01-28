@@ -1,0 +1,11 @@
+{
+    "name": "Bernard #2",
+    "description": "An adorable Bernard pup!",
+    "image": "https://ipfs.io/ipfs/QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
