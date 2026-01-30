@@ -77,7 +77,7 @@ This ERC721 NFT Smart contract is a collection of "Dogie" NFT's, this contract i
 
 **```function safeTransferFrom(address from, address to, uint256 tokenId, bytes memory data) public virtual```**
 
-- Calls ```transferFrom(...)``` then checks ```to``` (if contract) implements ```onERC721Received```.
+- Calls ```transferFrom(...)``` then checks ```to``` (if contract) implements onERC721Received.
 
 ## Interact 
 
